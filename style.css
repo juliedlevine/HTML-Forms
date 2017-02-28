@@ -1,0 +1,25 @@
+body {
+    background-image: url('stardust.png');
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+.form {
+    padding: 40px;
+    max-width: 600px;
+}
+.form-group {
+    margin-bottom: 40px;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+#submit_button:hover {
+    background-color: #54bcb3;
+    cursor: grab;
+    color: white;
+    border: 1px solid #54bcb3;
+}
+label {
+    margin-bottom: 10px;
+}
